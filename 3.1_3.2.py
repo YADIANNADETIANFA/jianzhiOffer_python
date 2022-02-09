@@ -14,3 +14,5 @@ if __name__ == '__main__':
     solution = Solution()
     res = solution.duplicate(my_list)
     print(res)
+
+# 数组中重复数字
